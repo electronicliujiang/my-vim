@@ -1,0 +1,1 @@
+/root/workspace/myWork/blade_centos7.2/thirdparty/typhoon-blade-master/vim/syntax/blade.vim
